@@ -77,6 +77,11 @@ Thumbs.db
 *.tar
 *.zip
 
+# project specific ignores
+dist
+bower_components
+vendor
+
 # -------------------------
 # BEGIN Whitelisted Files
 # -------------------------
