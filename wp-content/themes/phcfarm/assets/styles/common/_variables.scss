@@ -1,9 +1,24 @@
 // Glyphicons font path
-$icon-font-path:        "../fonts/";
+$icon-font-path:                    "../fonts/";
 
 // Grid settings
-$main-sm-columns:       12;
-$sidebar-sm-columns:    4;
+$main-sm-columns:                   12;
+$sidebar-sm-columns:                4;
 
 // Colors
-$brand-primary:         #27ae60;
+$brand-primary:                     #4a5f27;
+$link-color:                        #67832C;
+$link-hover-color:                  $brand-primary;
+
+// Nav bar
+$navbar-height:                     40px;
+$navbar-default-bg:                 $brand-primary;
+$navbar-default-link-color:         white;
+$navbar-default-link-hover-color:   #e6e6e6;
+$navbar-default-link-hover-bg:      $brand-primary;
+$navbar-default-link-active-color:  white;
+
+// Dropdowns
+$dropdown-link-color:               #77933c;
+$dropdown-link-hover-color:         white;
+$dropdown-link-hover-bg:            $dropdown-link-color;

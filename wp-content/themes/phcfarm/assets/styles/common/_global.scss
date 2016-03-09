@@ -1,1 +1,35 @@
 
+
+/* =============================================================================
+   Primary Content Front Page
+   ========================================================================== */
+
+.home main h3 { 
+	background: transparent url('/img/header.jpg') right top no-repeat;
+	overflow: hidden;
+	height: 120px;
+	text-align: right;
+	color: #FFF;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	padding: 10px;
+	margin-top: 0;
+	margin-bottom: 25px;
+    font-size: 22px;
+}
+
+.home main .blog {
+    margin-top: 25px;
+}
+
+.home main .blog img.attachment-medium {
+    width: 100%;
+    height: auto;
+}
+
+.home .updated {
+    font-style: italic;
+    font-size: 12px;
+    margin: -3px 0 3px 0;
+}
